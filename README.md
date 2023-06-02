@@ -13,7 +13,7 @@
 
 # Citation
 ```bibtex
-@INPROCEEDINGS{9766497,
+@INPROCEEDINGS{gbatnasan2021,
   author={Batnasan, Ganzorig and Gochoo, Munkhjargal and Otgonbold, Munkh-Erdene and Alnajjar, Fady and Shih, Timothy K},
   booktitle={2022 IEEE Global Engineering Education Conference (EDUCON)}, 
   title={ArSL21L: Arabic Sign Language Letter Dataset Benchmarking and an Educational Avatar for Metaverse Applications}, 
