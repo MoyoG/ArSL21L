@@ -6,7 +6,7 @@
 
 #Dataset
 - [Click to download the ArSL21L dataset](https://data.mendeley.com/datasets/8hrn3bvdvk)
-
+- [Click to download the paper](https://ieeexplore.ieee.org/abstract/document/9766497)
 **The result of YOLOv5 models on ArSL21L dataset**
 
 
