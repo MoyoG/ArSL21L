@@ -4,14 +4,33 @@
 [Ganzorig Batnasan](https://github.com/ganzob/), [Munkhjargal Gochoo](https://github.com/moyog/), [Munkh-Erdene Otgonbold](https://github.com/omunkhuush/), , Fady Alnajjar, Timothy K. Shih
 
 
-#Dataset
+
+We present our collected and annotated Arabic Sign Language Letters Dataset (ArSL21L) consisting of 14202 images of 32 letter signs with various backgrounds collected from 50 people. We benchmarked our ArSL21L dataset on state-of-the-art object detection models, i.e., 4 versions of YOLOv5. Among the models, YOLOv5l achieved the best result with mAP of 0.83. Moreover, we provide comparison results of classification task between [ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283) dataset, the only Arabic sign language letter dataset for classification task, and our dataset by running classification task on in-house short video. The results revealed that the model trained on our dataset has a superior performance over the model trained on ArSL2018.
+
+# Dataset
 - [Click to download the ArSL21L dataset](https://data.mendeley.com/datasets/8hrn3bvdvk)
+
+# Paper
 - [Click to download the paper](https://ieeexplore.ieee.org/abstract/document/9766497)
 
 
 **The result of YOLOv5 models on ArSL21L dataset**
 
+| Models   | Precision | Recall | mAP0.5 | mAP.5:.95 |
+| -------- | --------- | ------ | ------ | ---------
+| YOLOv5s  | 0.953     | 0.9408 | 0.9784 |  0.7661   |
+| YOLOv5m  | 0.968     | 0.9468 | 0.9842 |  0.7768   |
+| YOLOv5l  | 0.9787    | 0.9766 | 0.9909 |  0.8306   |
+| YOLOv5x  | 0.9758    | 0.9743 | 0.9896 |  0.8224   |
 
+
+  
+
+|       | [ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283) | ArSL21L (Ours) | Video |
+| ----- | ---------- | ------- | ------- |
+|ResNext1 ([ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283))| 99.2% | 35% | 69% |
+|ResNext2 (ArSL21L (Ours)) |   45.47%   | 91.04% | 92% |
+|CNN ([ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283)) |    92%  |       |      |
 
 # Citation
 ```bibtex
