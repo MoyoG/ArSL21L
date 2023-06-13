@@ -8,7 +8,7 @@
 We present our collected and annotated Arabic Sign Language Letters Dataset (ArSL21L) consisting of 14202 images of 32 letter signs with various backgrounds collected from 50 people. We benchmarked our ArSL21L dataset on state-of-the-art object detection models, i.e., 4 versions of YOLOv5. Among the models, YOLOv5l achieved the best result with mAP of 0.83. Moreover, we provide comparison results of classification task between [ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283) dataset, the only Arabic sign language letter dataset for classification task, and our dataset by running classification task on in-house short video. The results revealed that the model trained on our dataset has a superior performance over the model trained on ArSL2018.
 
 
-![ddd](https://github.com/MoyoG/ArSL21L/assets/73123564/9baefd7c-de5d-4e74-b04a-936c51dcb1f7)
+
 
 
 
@@ -22,7 +22,7 @@ https://github.com/MoyoG/ArSL21L/assets/73123564/ec4ad568-631f-4815-9350-a8c2492
 # Paper
 - [Click to download the paper](https://ieeexplore.ieee.org/abstract/document/9766497)
 
-
+# Experimental results
 **The result of YOLOv5 models on ArSL21L dataset**
 
 | Models   | Precision | Recall | mAP0.5 | mAP.5:.95 |
@@ -37,7 +37,7 @@ https://github.com/MoyoG/ArSL21L/assets/73123564/ec4ad568-631f-4815-9350-a8c2492
     <img width="45%" src="https://github.com/MoyoG/ArSL21L/assets/73123564/1369c189-fa20-4ff3-8c66-35132207157d">
 </p>
 
-
+![ddd](https://github.com/MoyoG/ArSL21L/assets/73123564/9baefd7c-de5d-4e74-b04a-936c51dcb1f7)
 
 **Classification model results on Arabic datasets**
 |       | [ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283) | ArSL21L (Ours) | Video |
