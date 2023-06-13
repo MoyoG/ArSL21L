@@ -26,8 +26,8 @@ https://github.com/MoyoG/ArSL21L/assets/73123564/ec4ad568-631f-4815-9350-a8c2492
 | YOLOv5x  | 0.9758    | 0.9743 | 0.9896 |  0.8224   |
 
 <p align="center" width="100%" displat=flex>
-    <img width="45%"  src="https://github.com/MoyoG/ArSL21L/assets/73123564/05027a3c-5834-42dc-a344-eb58aa1e5160">
-    <img width="45%" src="https://github.com/MoyoG/ArSL21L/assets/73123564/1369c189-fa20-4ff3-8c66-35132207157d">
+    <img width="40%"  src="https://github.com/MoyoG/ArSL21L/assets/73123564/05027a3c-5834-42dc-a344-eb58aa1e5160">
+    <img width="55%" src="https://github.com/MoyoG/ArSL21L/assets/73123564/1369c189-fa20-4ff3-8c66-35132207157d">
 </p>
 
 ![ddd](https://github.com/MoyoG/ArSL21L/assets/73123564/9baefd7c-de5d-4e74-b04a-936c51dcb1f7)
