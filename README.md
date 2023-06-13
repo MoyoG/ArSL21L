@@ -14,7 +14,11 @@ We present our collected and annotated Arabic Sign Language Letters Dataset (ArS
 - [Click to download the paper](https://ieeexplore.ieee.org/abstract/document/9766497)
 
 # Experimental results
-https://github.com/MoyoG/ArSL21L/assets/73123564/ec4ad568-631f-4815-9350-a8c2492ebb6d
+
+
+https://github.com/MoyoG/ArSL21L/assets/73123564/68813e6c-f87a-4f34-aab7-e582ca146657
+
+
 
 **The result of YOLOv5 models on ArSL21L dataset**
 
