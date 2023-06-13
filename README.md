@@ -5,7 +5,8 @@
 
 
 
-We present our collected and annotated Arabic Sign Language Letters Dataset (ArSL21L) consisting of 14202 images of 32 letter signs with various backgrounds collected from 50 people. We benchmarked our ArSL21L dataset on state-of-the-art object detection models, i.e., 4 versions of YOLOv5. Among the models, YOLOv5l achieved the best result with mAP of 0.83. Moreover, we provide comparison results of classification task between [ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283) dataset, the only Arabic sign language letter dataset for classification task, and our dataset by running classification task on in-house short video. The results revealed that the model trained on our dataset has a superior performance over the model trained on ArSL2018.
+We present our collected and annotated Arabic Sign Language Letters Dataset (ArSL21L) consisting of 14202 images of 32 letter signs with various backgrounds collected from 50 people. We benchmarked our ArSL21L dataset on state-of-the-art object detection models, i.e., 4 versions of YOLOv5. Among the models, YOLOv5l achieved the best result with mAP of 0.83. Moreover, we provide comparison results of classification task between [ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283) dataset, the only Arabic sign language letter dataset for classification task, and our dataset by running classification task on in-house short video. The results revealed that the model trained on our dataset has a superior performance over the model trained on ArSL2018.
+
 
 # Dataset
 - [Click to download the ArSL21L dataset](https://data.mendeley.com/datasets/8hrn3bvdvk)
@@ -24,13 +25,14 @@ We present our collected and annotated Arabic Sign Language Letters Dataset (ArS
 | YOLOv5x  | 0.9758    | 0.9743 | 0.9896 |  0.8224   |
 
 
-  
 
-|       | [ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283) | ArSL21L (Ours) | Video |
+
+**Classification model results on Arabic datasets**
+|       | [ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283) | ArSL21L (Ours) | Video |
 | ----- | ---------- | ------- | ------- |
-|ResNext1 ([ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283))| 99.2% | 35% | 69% |
-|ResNext2 (ArSL21L (Ours)) |   45.47%   | 91.04% | 92% |
-|CNN ([ArSL2018] (https://www.sciencedirect.com/science/article/pii/S2352340919301283)) |    92%  |       |      |
+|ResNext1 ([ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283))| 99.2% | 35% | 69% |
+|ResNext2 (ArSL21L(Ours)) |   45.47%   | 91.04% | 92% |
+|CNN ([ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283)) |    92%  |       |      |
 
 # Citation
 ```bibtex
