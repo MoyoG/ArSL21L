@@ -25,6 +25,13 @@ https://github.com/MoyoG/ArSL21L/assets/73123564/ec4ad568-631f-4815-9350-a8c2492
 | YOLOv5l  | 0.9787    | 0.9766 | 0.9909 |  0.8306   |
 | YOLOv5x  | 0.9758    | 0.9743 | 0.9896 |  0.8224   |
 
+**Classification model results on Arabic datasets**
+|       | [ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283) | ArSL21L (Ours) | Video |
+| ----- | ---------- | ------- | ------- |
+|ResNext1 ([ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283))| 99.2% | 35% | 69% |
+|ResNext2 (ArSL21L(Ours)) |   45.47%   | 91.04% | 92% |
+|CNN ([ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283)) |    92%  |       |      |
+
 <p align="center" width="100%" displat=flex>
     <img width="40%"  src="https://github.com/MoyoG/ArSL21L/assets/73123564/05027a3c-5834-42dc-a344-eb58aa1e5160">
     <img width="55%" src="https://github.com/MoyoG/ArSL21L/assets/73123564/1369c189-fa20-4ff3-8c66-35132207157d">
@@ -32,12 +39,6 @@ https://github.com/MoyoG/ArSL21L/assets/73123564/ec4ad568-631f-4815-9350-a8c2492
 
 ![ddd](https://github.com/MoyoG/ArSL21L/assets/73123564/9baefd7c-de5d-4e74-b04a-936c51dcb1f7)
 
-**Classification model results on Arabic datasets**
-|       | [ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283) | ArSL21L (Ours) | Video |
-| ----- | ---------- | ------- | ------- |
-|ResNext1 ([ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283))| 99.2% | 35% | 69% |
-|ResNext2 (ArSL21L(Ours)) |   45.47%   | 91.04% | 92% |
-|CNN ([ArSL2018](https://www.sciencedirect.com/science/article/pii/S2352340919301283)) |    92%  |       |      |
 
 # Citation
 ```bibtex
