@@ -1,7 +1,7 @@
 # ArSL21L: Arabic sign language letter dataset benchmarking and an educational avatar for metaverse applications
 **Authors:**
 
-[Ganzorig Batnasan](https://github.com/ganzob/), [Munkhjargal Gochoo](https://github.com/moyog/), [Munkh-Erdene Otgonbold](https://github.com/omunkhuush/), , Fady Alnajjar, Timothy K. Shih
+[Ganzorig Batnasan](https://github.com/ganzob/), [Munkhjargal Gochoo](https://github.com/moyog/), [Munkh-Erdene Otgonbold](https://github.com/omunkhuush/), Fady Alnajjar, Timothy K. Shih
 
 ![samples_long](https://github.com/MoyoG/ArSL21L/assets/73123564/3a18ade6-d11d-422f-8ce4-4c435a4fb2ee)
 
